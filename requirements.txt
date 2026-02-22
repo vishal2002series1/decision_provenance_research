@@ -1,0 +1,15 @@
+boto3        # For AWS Bedrock (The Brain)
+pydantic     # For structured data (The Skeleton)
+langgraph    # For agent orchestration (The Flow)
+python-dotenv # For secrets
+matplotlib   # For visualizing the graph later
+networkx     # For graph topology
+
+numpy>=1.24.0
+opentelemetry-api>=1.20.0
+opentelemetry-sdk>=1.20.0
+opentelemetry-exporter-otlp-proto-grpc>=1.20.0
+opentelemetry-instrumentation>=0.41b0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+scipy>=1.10.0

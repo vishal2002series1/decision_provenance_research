@@ -1,0 +1,59 @@
+version: '3.8'
+
+services:
+  # ============================================================================
+  # JAEGER - Distributed Tracing Backend
+  # ============================================================================
+  jaeger:
+    image: jaegertracing/all-in-one:1.51
+    container_name: dpg-jaeger
+    ports:
+      - "16686:16686"  # Jaeger UI
+      - "4317:4317"    # OTLP gRPC receiver
+      - "14318:14318"    # OTLP HTTP receiver
+    environment:
+      - COLLECTOR_OTLP_ENABLED=true
+    networks:
+      - dpg-network
+
+  # ============================================================================
+  # GRAFANA TEMPO - Distributed Tracing Backend
+  # ============================================================================
+  tempo:
+    image: grafana/tempo:latest
+    container_name: dpg-tempo
+    command: ["-config.file=/etc/tempo.yaml"]
+    volumes:
+      - ./tempo-config.yaml:/etc/tempo.yaml
+      - tempo-data:/tmp/tempo
+    ports:
+      - "3200:3200"    # Tempo HTTP
+      - "4318:4318"    # OTLP HTTP receiver (reusing port)
+    networks:
+      - dpg-network
+
+  # ============================================================================
+  # GRAFANA - Visualization Dashboard
+  # ============================================================================
+  grafana:
+    image: grafana/grafana:latest
+    container_name: dpg-grafana
+    ports:
+      - "3000:3000"    # Grafana UI
+    environment:
+      - GF_AUTH_ANONYMOUS_ENABLED=true
+      - GF_AUTH_ANONYMOUS_ORG_ROLE=Admin
+    volumes:
+      - grafana-data:/var/lib/grafana
+    networks:
+      - dpg-network
+    depends_on:
+      - tempo
+
+networks:
+  dpg-network:
+    driver: bridge
+
+volumes:
+  tempo-data:
+  grafana-data:

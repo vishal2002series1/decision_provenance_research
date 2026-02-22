@@ -1,0 +1,62 @@
+[
+  {
+    "run_number": 1,
+    "seed": 42,
+    "pii_deletable": true,
+    "audit_trail_exists": true,
+    "no_residual_pii": true,
+    "hash_preserved": true,
+    "chain_valid": true,
+    "requirements_met": 5,
+    "compliance_score_pct": 100.0,
+    "timestamp": 1766153738.917303
+  },
+  {
+    "run_number": 2,
+    "seed": 43,
+    "pii_deletable": true,
+    "audit_trail_exists": true,
+    "no_residual_pii": true,
+    "hash_preserved": true,
+    "chain_valid": true,
+    "requirements_met": 5,
+    "compliance_score_pct": 100.0,
+    "timestamp": 1766153738.957532
+  },
+  {
+    "run_number": 3,
+    "seed": 44,
+    "pii_deletable": true,
+    "audit_trail_exists": true,
+    "no_residual_pii": true,
+    "hash_preserved": true,
+    "chain_valid": true,
+    "requirements_met": 5,
+    "compliance_score_pct": 100.0,
+    "timestamp": 1766153738.996963
+  },
+  {
+    "run_number": 4,
+    "seed": 45,
+    "pii_deletable": true,
+    "audit_trail_exists": true,
+    "no_residual_pii": true,
+    "hash_preserved": true,
+    "chain_valid": true,
+    "requirements_met": 5,
+    "compliance_score_pct": 100.0,
+    "timestamp": 1766153739.036924
+  },
+  {
+    "run_number": 5,
+    "seed": 46,
+    "pii_deletable": true,
+    "audit_trail_exists": true,
+    "no_residual_pii": true,
+    "hash_preserved": true,
+    "chain_valid": true,
+    "requirements_met": 5,
+    "compliance_score_pct": 100.0,
+    "timestamp": 1766153739.0766678
+  }
+]

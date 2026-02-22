@@ -1,0 +1,92 @@
+[
+  {
+    "backend_name": "Jaeger",
+    "backend_endpoint": "http://localhost:4317",
+    "run_number": 1,
+    "seed": 42,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153853.7644749
+  },
+  {
+    "backend_name": "Jaeger",
+    "backend_endpoint": "http://localhost:4317",
+    "run_number": 2,
+    "seed": 43,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153853.9729338
+  },
+  {
+    "backend_name": "Jaeger",
+    "backend_endpoint": "http://localhost:4317",
+    "run_number": 3,
+    "seed": 44,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153854.217441
+  },
+  {
+    "backend_name": "Jaeger",
+    "backend_endpoint": "http://localhost:4317",
+    "run_number": 4,
+    "seed": 45,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153854.443934
+  },
+  {
+    "backend_name": "Jaeger",
+    "backend_endpoint": "http://localhost:4317",
+    "run_number": 5,
+    "seed": 46,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153854.664596
+  },
+  {
+    "backend_name": "Console",
+    "backend_endpoint": null,
+    "run_number": 1,
+    "seed": 42,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153854.891903
+  },
+  {
+    "backend_name": "Console",
+    "backend_endpoint": null,
+    "run_number": 2,
+    "seed": 43,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153855.075229
+  },
+  {
+    "backend_name": "Console",
+    "backend_endpoint": null,
+    "run_number": 3,
+    "seed": 44,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153855.2455392
+  },
+  {
+    "backend_name": "Console",
+    "backend_endpoint": null,
+    "run_number": 4,
+    "seed": 45,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153855.471516
+  },
+  {
+    "backend_name": "Console",
+    "backend_endpoint": null,
+    "run_number": 5,
+    "seed": 46,
+    "compatible": true,
+    "export_success_rate_pct": 100.0,
+    "timestamp": 1766153855.694108
+  }
+]

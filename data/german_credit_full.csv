@@ -1,0 +1,1001 @@
+Age,Sex,Job,Housing,SavingAccounts,CheckingAccount,CreditAmount,Duration,Purpose,Risk
+23,male,3,rent,moderate,moderate,1752,46,radio/TV,good
+71,male,1,rent,moderate,little,7566,9,car,bad
+53,male,0,free,moderate,little,796,19,education,good
+50,male,3,own,rich,little,5407,16,radio/TV,bad
+71,female,2,rent,moderate,moderate,10076,71,business,good
+70,male,2,own,moderate,moderate,1802,50,business,bad
+37,female,2,own,moderate,moderate,2409,35,education,good
+43,male,0,own,little,moderate,9443,31,education,good
+34,female,3,own,moderate,moderate,5423,17,business,good
+64,male,2,own,moderate,rich,3919,49,furniture,bad
+24,female,0,own,quite rich,rich,5839,24,education,good
+48,female,3,rent,quite rich,moderate,14714,56,business,bad
+33,male,3,free,little,little,754,34,furniture,bad
+34,female,0,free,moderate,little,6049,7,business,good
+35,female,0,rent,moderate,little,3232,19,radio/TV,bad
+40,male,0,free,rich,little,6940,70,education,bad
+61,male,3,free,little,rich,1740,41,radio/TV,good
+56,female,0,own,rich,rich,6264,15,business,bad
+21,male,1,free,rich,rich,14968,16,furniture,bad
+32,female,1,free,rich,little,10161,26,radio/TV,bad
+42,male,2,rent,moderate,rich,9706,32,furniture,good
+30,male,0,free,quite rich,little,6054,13,car,bad
+47,male,3,own,quite rich,rich,3988,8,furniture,good
+39,female,3,free,rich,little,13824,9,radio/TV,bad
+20,male,3,free,rich,rich,7805,34,furniture,good
+64,male,1,rent,quite rich,little,616,55,business,bad
+52,male,3,rent,quite rich,rich,5544,71,business,bad
+50,male,2,free,little,rich,8574,65,furniture,good
+41,male,3,rent,quite rich,moderate,6021,31,radio/TV,good
+34,male,1,rent,moderate,rich,4817,38,furniture,good
+67,female,0,free,little,little,10493,35,car,bad
+60,female,2,free,little,rich,13112,60,education,good
+42,male,2,rent,quite rich,moderate,11981,8,radio/TV,good
+29,male,1,own,quite rich,rich,8542,25,radio/TV,bad
+66,male,3,rent,moderate,moderate,3520,29,business,good
+59,female,2,free,quite rich,rich,7278,57,car,bad
+71,male,0,own,rich,rich,1475,47,furniture,good
+72,male,2,own,little,moderate,11848,57,business,good
+57,female,1,rent,moderate,moderate,7782,42,business,good
+32,female,3,free,rich,little,4466,6,car,good
+52,male,1,own,moderate,moderate,3512,40,car,bad
+48,female,2,own,moderate,little,6829,43,furniture,bad
+20,male,2,rent,moderate,rich,7186,29,education,bad
+34,male,2,rent,quite rich,little,14890,71,furniture,bad
+30,male,3,rent,moderate,little,4776,23,radio/TV,good
+74,female,3,free,moderate,little,6952,51,education,good
+47,male,0,own,quite rich,moderate,3817,15,furniture,bad
+50,female,3,rent,moderate,rich,11443,44,radio/TV,bad
+32,male,3,free,quite rich,rich,2952,69,car,good
+35,male,2,free,little,moderate,1648,18,business,bad
+48,female,0,free,moderate,rich,4555,7,furniture,bad
+66,female,0,rent,quite rich,rich,8518,9,business,good
+54,male,2,free,moderate,moderate,2470,15,education,bad
+56,male,1,free,moderate,rich,9634,32,education,bad
+53,female,3,own,little,moderate,8276,64,car,good
+56,female,0,own,little,rich,14436,30,business,good
+27,male,3,free,quite rich,little,2011,29,furniture,good
+62,female,0,rent,quite rich,moderate,4787,14,car,good
+46,male,1,own,quite rich,moderate,4755,58,business,good
+27,male,3,free,little,little,13851,41,radio/TV,bad
+69,male,0,own,rich,little,8980,37,education,bad
+70,female,2,own,rich,little,1097,57,business,good
+67,male,0,own,moderate,little,5101,30,radio/TV,bad
+73,male,1,own,rich,little,10997,32,education,bad
+35,female,2,own,rich,rich,13395,64,car,good
+75,male,2,own,little,little,11984,10,education,good
+50,female,1,free,moderate,moderate,10273,61,car,bad
+36,male,1,rent,moderate,rich,4924,62,car,bad
+44,male,2,rent,rich,rich,14076,65,radio/TV,good
+29,female,2,free,little,moderate,4648,41,furniture,bad
+37,male,2,free,quite rich,rich,3461,57,education,good
+22,female,2,rent,quite rich,moderate,8141,6,car,bad
+71,male,0,free,little,rich,9904,6,business,good
+52,male,1,rent,rich,moderate,7587,54,car,good
+44,female,2,free,moderate,rich,3086,52,radio/TV,good
+71,female,2,own,moderate,little,12563,35,education,good
+20,female,1,rent,little,rich,11580,57,furniture,good
+64,female,0,own,little,little,5011,62,furniture,bad
+46,female,1,own,quite rich,moderate,6588,13,radio/TV,good
+25,male,3,rent,rich,rich,2745,17,education,good
+26,male,1,own,rich,moderate,4599,65,furniture,bad
+70,male,2,free,little,rich,3523,72,business,good
+31,male,1,own,little,little,12609,68,business,good
+69,male,1,free,rich,little,4486,45,car,good
+54,female,3,own,rich,moderate,10398,67,furniture,bad
+72,female,0,own,little,moderate,10929,60,education,bad
+25,male,0,rent,rich,rich,12588,65,education,good
+74,male,3,rent,quite rich,rich,13255,58,radio/TV,bad
+29,female,3,own,little,rich,14363,33,furniture,bad
+74,female,1,rent,moderate,little,12839,46,furniture,good
+39,male,3,rent,rich,little,5719,39,business,good
+59,female,2,rent,little,little,1178,70,business,bad
+36,male,0,free,quite rich,moderate,14302,13,furniture,bad
+54,female,2,free,quite rich,little,8387,11,radio/TV,bad
+54,male,3,rent,quite rich,moderate,6740,50,education,good
+25,male,1,free,little,moderate,6822,6,furniture,bad
+51,female,1,own,quite rich,little,13534,41,furniture,good
+75,female,2,free,little,rich,11510,21,business,good
+34,female,3,free,little,moderate,5338,65,education,bad
+43,male,1,rent,quite rich,rich,5515,65,car,bad
+38,male,2,rent,little,moderate,1006,42,car,good
+65,male,0,free,rich,moderate,4492,45,car,good
+58,female,1,rent,rich,moderate,10990,71,furniture,bad
+74,male,1,free,quite rich,moderate,13395,55,radio/TV,bad
+38,male,0,rent,moderate,rich,3805,23,car,bad
+44,male,3,own,quite rich,little,13882,13,furniture,bad
+58,female,3,free,rich,rich,6035,13,business,bad
+35,male,3,own,little,rich,4709,69,car,bad
+35,female,3,free,little,little,9775,39,furniture,bad
+62,female,2,rent,moderate,little,5081,56,business,bad
+45,female,0,own,rich,rich,13636,70,furniture,good
+25,male,0,rent,quite rich,moderate,12598,35,car,good
+71,male,2,rent,little,moderate,9624,35,education,good
+26,female,0,free,quite rich,little,3320,60,radio/TV,good
+56,male,1,own,moderate,little,15000,42,business,bad
+59,male,2,own,quite rich,moderate,12468,57,furniture,bad
+29,female,0,own,quite rich,rich,10697,37,radio/TV,good
+18,female,2,rent,moderate,rich,2380,48,business,good
+68,male,2,own,quite rich,moderate,10987,41,radio/TV,good
+27,female,1,rent,little,moderate,8494,32,radio/TV,good
+52,male,2,own,little,rich,9538,22,car,good
+34,female,1,free,rich,little,2148,22,radio/TV,good
+49,male,1,rent,little,rich,1976,6,furniture,good
+54,male,1,own,quite rich,little,4142,20,business,bad
+28,male,3,rent,rich,little,10011,59,education,good
+42,female,3,own,moderate,rich,9905,21,radio/TV,bad
+37,male,3,rent,quite rich,rich,774,27,business,good
+22,female,0,rent,little,little,8201,24,radio/TV,bad
+39,female,0,own,little,rich,2447,60,business,good
+68,male,3,own,moderate,moderate,1275,19,furniture,bad
+45,female,3,own,rich,little,12254,46,education,bad
+26,male,1,rent,rich,moderate,580,39,car,bad
+70,male,0,free,moderate,little,7206,8,furniture,bad
+47,male,0,free,moderate,little,14250,66,car,good
+39,male,3,own,rich,moderate,12853,49,business,bad
+27,female,1,rent,quite rich,moderate,12440,35,education,bad
+72,female,2,free,rich,moderate,12926,30,car,bad
+57,female,0,free,rich,rich,7960,22,business,bad
+65,male,0,rent,rich,little,3004,69,radio/TV,bad
+42,female,3,own,rich,rich,8999,21,education,bad
+49,male,2,rent,quite rich,little,7551,22,furniture,bad
+50,male,1,own,little,moderate,10219,47,car,bad
+51,male,1,own,little,little,3543,8,business,good
+24,male,3,own,little,rich,3160,50,furniture,good
+70,female,0,free,rich,little,4448,46,car,bad
+64,female,2,rent,rich,little,7423,70,furniture,good
+50,male,3,own,moderate,rich,4447,47,business,bad
+43,female,2,free,little,little,7228,59,radio/TV,good
+23,male,0,free,quite rich,little,5286,33,education,good
+73,female,3,own,moderate,moderate,1545,7,furniture,bad
+33,male,2,rent,quite rich,rich,1804,53,radio/TV,bad
+64,female,0,free,little,rich,13715,48,radio/TV,bad
+67,female,0,own,rich,moderate,3535,28,furniture,bad
+54,female,2,own,little,little,5750,30,business,good
+72,female,2,free,moderate,little,1556,44,education,good
+29,male,0,free,quite rich,little,10565,19,car,bad
+67,female,1,own,quite rich,moderate,4430,17,furniture,good
+25,female,0,rent,quite rich,rich,9417,36,business,bad
+58,female,1,rent,rich,rich,14906,69,car,good
+55,male,3,own,quite rich,little,13132,35,business,good
+72,female,2,free,little,rich,10577,20,car,good
+49,male,2,free,quite rich,moderate,12994,38,furniture,bad
+65,male,3,own,moderate,rich,9475,42,business,bad
+32,male,2,rent,moderate,rich,7676,54,business,good
+44,male,3,free,quite rich,little,8847,46,car,bad
+22,male,2,rent,moderate,rich,12189,27,business,bad
+31,male,3,free,rich,little,6515,69,car,bad
+63,male,1,own,rich,rich,6870,57,car,bad
+55,male,0,own,quite rich,little,6513,57,car,bad
+55,male,1,rent,quite rich,rich,3734,29,car,good
+47,male,0,own,moderate,rich,8197,6,radio/TV,good
+24,male,0,own,rich,little,6268,34,furniture,good
+52,female,0,rent,quite rich,moderate,2368,12,furniture,bad
+65,female,3,free,moderate,little,9614,38,radio/TV,good
+51,male,2,rent,little,little,9561,19,radio/TV,bad
+59,male,1,own,moderate,moderate,1213,21,furniture,good
+60,female,1,rent,rich,rich,10864,57,business,bad
+21,female,1,rent,quite rich,little,10250,57,furniture,bad
+22,male,0,free,quite rich,rich,3336,23,radio/TV,bad
+44,male,2,rent,quite rich,little,826,22,business,good
+72,male,3,own,moderate,moderate,10750,45,education,good
+22,female,3,free,little,rich,5960,64,car,bad
+47,female,1,own,little,moderate,9248,52,car,bad
+49,female,0,free,rich,rich,9576,19,education,good
+45,male,1,own,quite rich,moderate,9787,47,car,good
+33,female,0,free,moderate,moderate,5712,35,business,bad
+30,male,3,free,quite rich,rich,987,66,business,good
+46,female,1,rent,little,little,8764,69,radio/TV,bad
+20,female,3,own,quite rich,little,9587,10,radio/TV,bad
+34,male,2,own,moderate,rich,13769,18,furniture,bad
+42,male,3,free,little,moderate,11588,53,radio/TV,bad
+42,male,2,own,rich,rich,6078,43,car,good
+41,male,0,rent,quite rich,moderate,13658,59,education,bad
+64,female,3,free,rich,moderate,2546,17,radio/TV,bad
+39,female,0,own,moderate,rich,13723,47,business,good
+49,female,3,free,quite rich,rich,5095,61,radio/TV,good
+40,female,3,own,moderate,rich,1637,51,car,bad
+74,male,0,rent,moderate,rich,5073,49,radio/TV,bad
+25,female,1,own,moderate,little,8007,65,education,good
+27,male,1,rent,rich,moderate,6845,60,car,good
+43,female,1,own,moderate,rich,3215,32,furniture,good
+35,male,1,rent,little,little,10013,68,radio/TV,bad
+50,female,2,own,moderate,rich,6968,24,car,good
+31,male,0,rent,quite rich,moderate,1814,38,radio/TV,good
+71,female,1,rent,rich,little,10221,22,business,good
+21,female,1,free,little,rich,9687,68,business,good
+71,male,1,own,moderate,moderate,9231,49,business,bad
+39,female,1,rent,moderate,moderate,14492,71,education,bad
+62,male,3,own,rich,rich,12249,70,radio/TV,bad
+40,female,0,rent,rich,little,3429,13,education,bad
+22,male,0,rent,quite rich,little,1863,11,car,bad
+58,female,2,free,quite rich,moderate,5085,42,car,good
+46,male,3,own,quite rich,rich,8516,36,car,good
+30,male,0,rent,rich,little,8797,65,business,good
+34,female,3,free,little,rich,14289,19,business,bad
+25,male,1,own,moderate,moderate,12763,22,business,bad
+63,male,1,own,quite rich,moderate,7598,17,education,good
+34,male,2,own,little,rich,10228,18,business,bad
+31,female,3,own,rich,rich,3186,62,education,good
+26,male,1,own,moderate,little,2682,52,education,good
+48,male,2,own,rich,rich,7469,39,furniture,good
+52,female,2,rent,moderate,rich,14877,7,car,bad
+56,male,1,own,quite rich,rich,9411,28,car,good
+43,female,1,free,quite rich,rich,9388,44,furniture,good
+51,male,1,rent,rich,moderate,11383,52,education,bad
+45,female,2,own,quite rich,little,8497,53,car,bad
+63,male,2,own,moderate,little,7008,31,car,bad
+41,female,2,rent,quite rich,moderate,4065,32,radio/TV,good
+21,female,1,free,moderate,rich,3260,66,business,good
+28,male,3,free,quite rich,little,517,31,car,bad
+49,male,1,free,quite rich,rich,7880,40,furniture,bad
+19,male,3,own,quite rich,rich,13951,10,car,good
+53,male,3,own,moderate,moderate,3696,35,business,bad
+37,male,2,rent,moderate,moderate,7296,39,radio/TV,good
+57,female,1,own,rich,moderate,7283,69,furniture,bad
+70,male,0,free,little,little,5957,52,radio/TV,bad
+52,male,3,own,quite rich,rich,9023,30,radio/TV,bad
+49,male,3,free,rich,rich,5155,12,business,good
+63,male,2,rent,rich,rich,13611,24,car,good
+72,male,3,free,little,rich,12784,67,car,bad
+69,female,1,own,quite rich,rich,4129,19,business,good
+20,female,3,free,rich,rich,7319,60,furniture,bad
+22,female,1,free,moderate,moderate,2683,29,car,bad
+62,female,1,free,quite rich,rich,3364,33,furniture,bad
+37,male,1,own,moderate,moderate,4239,22,furniture,good
+19,male,0,own,rich,rich,9426,45,furniture,bad
+42,male,2,rent,little,moderate,8919,15,education,bad
+61,male,1,rent,moderate,moderate,11773,40,business,good
+36,female,1,own,rich,rich,9248,70,education,bad
+48,male,0,own,rich,little,1243,67,car,good
+39,female,2,own,moderate,rich,1860,62,education,good
+33,female,3,rent,rich,rich,2360,50,furniture,bad
+65,female,1,free,moderate,little,10050,31,radio/TV,good
+73,male,2,free,moderate,little,1812,27,radio/TV,bad
+69,male,2,rent,moderate,little,2606,25,business,bad
+21,male,0,free,rich,little,14683,36,furniture,bad
+66,male,2,free,moderate,little,13163,13,education,bad
+26,female,3,own,quite rich,little,5516,21,furniture,good
+32,female,0,rent,quite rich,little,12641,9,car,good
+42,male,3,rent,moderate,rich,4258,22,furniture,bad
+68,female,1,own,rich,rich,1089,25,education,good
+20,female,1,free,quite rich,rich,9628,28,car,good
+40,male,3,free,quite rich,rich,3406,61,business,good
+63,male,2,free,moderate,moderate,14242,12,radio/TV,good
+36,female,0,free,rich,moderate,10464,22,business,good
+33,female,3,rent,quite rich,rich,9380,27,furniture,good
+22,male,2,own,little,little,1501,24,radio/TV,good
+51,male,0,own,rich,moderate,6765,19,radio/TV,bad
+19,female,0,rent,quite rich,little,4884,60,business,bad
+56,female,2,own,little,moderate,3402,13,radio/TV,good
+70,female,0,free,quite rich,moderate,13000,34,furniture,bad
+29,male,3,own,quite rich,little,3222,48,car,bad
+22,male,0,own,quite rich,little,4853,50,furniture,good
+37,male,0,free,moderate,rich,11573,66,business,bad
+48,female,1,rent,little,rich,10780,49,furniture,bad
+28,male,1,free,moderate,little,966,46,business,bad
+19,male,0,free,moderate,little,9383,68,business,good
+71,female,0,free,quite rich,moderate,7916,61,radio/TV,bad
+35,female,0,rent,rich,rich,13225,52,car,good
+29,male,3,own,quite rich,rich,14776,67,business,bad
+18,female,0,rent,little,little,11630,51,car,bad
+33,male,2,own,moderate,little,14961,68,business,good
+67,male,0,rent,moderate,little,10924,61,car,bad
+51,female,0,own,moderate,moderate,10685,28,radio/TV,bad
+70,female,0,rent,rich,moderate,2183,13,car,bad
+35,female,0,own,rich,little,913,33,car,good
+40,female,2,free,moderate,little,9281,40,radio/TV,bad
+38,female,1,own,moderate,little,13644,12,radio/TV,bad
+70,male,3,free,quite rich,rich,8409,22,radio/TV,good
+39,male,0,free,quite rich,little,6999,62,car,good
+24,male,1,own,moderate,rich,3626,36,car,good
+42,male,1,rent,moderate,rich,13749,27,furniture,good
+56,female,1,rent,moderate,rich,3466,57,business,good
+26,male,1,free,little,rich,11475,45,business,bad
+40,female,2,rent,quite rich,moderate,9347,65,car,bad
+49,male,2,rent,quite rich,moderate,11981,52,radio/TV,good
+60,female,3,rent,moderate,moderate,11590,70,furniture,bad
+24,female,1,own,moderate,rich,6543,55,business,good
+39,female,3,rent,little,rich,4119,50,radio/TV,bad
+37,male,1,free,moderate,little,5074,15,radio/TV,good
+52,male,3,own,moderate,rich,10362,10,education,good
+27,female,0,free,moderate,rich,1754,16,car,bad
+38,male,0,own,moderate,moderate,3407,25,business,good
+65,female,1,own,quite rich,moderate,6185,17,business,bad
+61,female,0,free,quite rich,rich,1023,58,business,bad
+56,female,0,own,moderate,rich,10665,29,education,good
+24,female,3,own,moderate,moderate,4662,21,radio/TV,bad
+55,female,2,free,rich,moderate,8855,47,furniture,good
+47,female,0,free,rich,little,7137,66,education,good
+18,female,1,free,rich,little,14637,62,education,bad
+73,female,3,free,little,rich,13670,31,business,good
+65,male,2,free,moderate,little,10701,32,car,bad
+45,female,1,free,little,little,5308,16,furniture,bad
+45,female,3,free,moderate,little,12056,63,business,bad
+30,female,0,rent,moderate,moderate,8424,39,furniture,bad
+41,male,0,rent,rich,moderate,7902,69,car,good
+75,male,3,free,little,moderate,14993,15,car,good
+40,male,0,rent,quite rich,moderate,7705,50,business,bad
+44,female,3,free,rich,little,693,28,car,good
+57,female,0,own,quite rich,moderate,2321,6,car,good
+70,male,1,free,moderate,little,5985,51,radio/TV,bad
+55,male,3,free,rich,rich,11454,47,car,good
+56,female,1,free,quite rich,moderate,4553,35,car,good
+22,female,0,rent,moderate,little,10382,62,radio/TV,good
+34,male,3,free,rich,rich,12652,27,radio/TV,bad
+50,female,1,free,rich,little,1461,64,business,good
+65,male,1,rent,quite rich,moderate,11696,45,car,good
+33,male,0,own,quite rich,rich,14493,13,education,good
+40,female,1,rent,little,moderate,12655,59,furniture,bad
+68,female,3,own,quite rich,little,7410,8,education,good
+23,male,0,free,rich,moderate,3238,34,radio/TV,bad
+67,male,1,rent,moderate,moderate,5556,55,car,good
+20,male,3,rent,moderate,little,3916,26,car,good
+44,male,0,rent,little,moderate,9327,51,radio/TV,bad
+57,male,2,free,rich,moderate,2589,51,furniture,good
+67,male,3,rent,little,little,8235,66,furniture,good
+53,male,0,own,little,moderate,4516,61,car,bad
+65,male,1,rent,moderate,rich,13556,72,furniture,bad
+34,female,2,own,rich,little,1213,43,car,good
+56,female,2,rent,quite rich,moderate,3562,53,radio/TV,bad
+62,male,0,rent,rich,moderate,11623,45,furniture,good
+54,male,1,free,moderate,rich,537,7,radio/TV,good
+25,male,0,rent,little,rich,7711,35,radio/TV,bad
+63,male,1,free,rich,moderate,8294,43,furniture,bad
+70,male,0,own,rich,moderate,12795,16,business,good
+54,female,1,rent,moderate,little,686,32,education,good
+31,female,3,own,moderate,little,1338,72,furniture,bad
+67,female,3,rent,rich,rich,12436,23,car,bad
+38,female,2,own,rich,moderate,8462,26,education,good
+30,male,3,rent,rich,rich,8870,16,radio/TV,bad
+74,female,0,free,moderate,moderate,9476,27,car,bad
+45,male,3,free,moderate,rich,3744,43,radio/TV,bad
+19,male,0,own,little,rich,11180,41,car,good
+39,female,2,own,moderate,moderate,11379,31,education,good
+23,female,1,rent,quite rich,rich,6053,62,furniture,good
+68,male,1,free,quite rich,moderate,14213,15,car,good
+24,male,2,own,quite rich,little,7305,54,radio/TV,good
+51,female,2,free,rich,little,9834,38,car,good
+46,female,3,rent,little,little,4698,10,radio/TV,good
+44,female,3,own,moderate,moderate,8551,22,car,bad
+55,male,3,own,little,little,4824,8,business,good
+48,female,0,free,moderate,rich,10551,71,car,good
+31,female,1,own,little,rich,9539,26,furniture,good
+75,male,1,own,little,little,11215,24,business,bad
+24,male,3,own,little,rich,5561,20,radio/TV,bad
+65,male,2,own,rich,moderate,6670,59,car,good
+39,female,0,own,quite rich,rich,13895,19,furniture,good
+42,female,3,own,rich,rich,2491,71,car,good
+72,male,0,own,little,moderate,5397,57,radio/TV,bad
+29,female,0,own,rich,rich,6125,22,radio/TV,good
+41,female,0,rent,rich,rich,9181,12,radio/TV,bad
+64,female,2,rent,quite rich,little,14688,6,business,good
+43,male,1,free,little,little,11262,13,car,good
+71,female,1,own,quite rich,moderate,5221,30,furniture,bad
+39,female,2,free,rich,rich,4152,42,education,bad
+41,female,2,rent,rich,rich,2730,17,car,bad
+49,female,1,own,little,rich,1622,44,education,good
+62,female,1,own,moderate,little,12762,19,business,good
+44,male,0,free,moderate,rich,12407,15,car,bad
+55,male,3,own,rich,little,10574,55,business,good
+52,female,1,own,little,rich,8977,47,education,bad
+31,female,2,rent,little,rich,5536,43,furniture,good
+25,female,1,own,rich,moderate,9272,54,education,good
+22,male,0,free,little,moderate,8071,19,radio/TV,bad
+64,male,3,free,quite rich,little,7587,42,education,bad
+19,male,0,free,little,little,6642,34,education,bad
+61,male,0,rent,quite rich,little,4311,21,radio/TV,bad
+41,female,1,own,quite rich,moderate,4882,62,car,bad
+24,male,2,free,moderate,moderate,14135,13,radio/TV,bad
+19,male,0,free,moderate,little,5191,56,radio/TV,bad
+28,male,1,free,moderate,moderate,7956,15,furniture,bad
+45,female,1,free,little,rich,5436,9,education,good
+49,male,2,own,quite rich,rich,1434,40,car,bad
+20,male,1,free,moderate,rich,7185,38,car,bad
+67,female,3,rent,quite rich,moderate,1274,59,business,good
+65,male,1,free,quite rich,little,6866,59,business,good
+25,female,3,own,quite rich,moderate,10091,42,furniture,bad
+66,female,1,own,rich,rich,13664,41,furniture,good
+62,male,3,own,quite rich,rich,11381,54,radio/TV,good
+35,female,2,rent,little,little,10547,9,car,bad
+49,female,2,free,quite rich,little,1420,71,radio/TV,bad
+66,female,3,free,quite rich,rich,6516,42,furniture,bad
+38,male,1,free,little,moderate,9573,64,furniture,bad
+42,male,2,rent,rich,rich,14578,25,education,bad
+23,male,1,own,moderate,little,8098,42,car,bad
+67,male,2,own,rich,moderate,11538,49,furniture,bad
+72,female,2,free,moderate,moderate,5881,57,education,bad
+54,female,2,rent,little,little,4027,25,radio/TV,bad
+65,male,2,own,quite rich,rich,8654,55,car,bad
+46,male,0,rent,moderate,rich,3441,55,car,bad
+63,male,2,rent,rich,moderate,7514,39,furniture,good
+27,male,0,rent,rich,moderate,13871,53,radio/TV,bad
+43,male,1,own,little,rich,9954,31,education,good
+27,female,2,own,moderate,moderate,9697,68,radio/TV,bad
+75,male,2,free,little,little,11765,42,education,bad
+46,male,3,free,rich,rich,11637,8,car,bad
+47,female,1,own,moderate,little,10690,39,car,good
+31,male,0,free,rich,little,11510,13,business,good
+45,female,2,rent,rich,moderate,6724,17,radio/TV,good
+19,female,3,rent,rich,moderate,8991,53,car,bad
+67,male,2,rent,rich,moderate,10505,29,radio/TV,bad
+25,female,1,free,quite rich,little,11027,33,car,good
+74,male,1,free,quite rich,moderate,13570,40,car,good
+42,male,2,own,rich,rich,4144,60,business,bad
+49,female,2,own,rich,rich,5945,15,radio/TV,good
+49,female,2,own,quite rich,little,12292,9,education,bad
+23,female,0,own,rich,moderate,1553,14,business,bad
+26,female,3,rent,moderate,moderate,14943,63,furniture,good
+48,male,3,rent,moderate,rich,10910,53,radio/TV,good
+42,female,1,rent,moderate,rich,7383,52,radio/TV,good
+60,male,1,free,moderate,moderate,10843,38,business,bad
+73,female,3,rent,moderate,rich,9395,30,business,bad
+57,female,3,free,rich,rich,2439,41,business,good
+73,female,2,rent,little,little,14367,12,business,bad
+60,female,1,own,moderate,rich,6976,58,car,bad
+28,male,3,free,moderate,rich,10364,55,car,bad
+52,female,1,own,quite rich,moderate,12472,34,radio/TV,good
+51,female,3,own,little,little,2059,58,education,bad
+29,female,1,own,little,little,11128,13,car,bad
+75,male,0,rent,little,moderate,13843,44,car,bad
+35,female,3,free,moderate,rich,2593,38,business,bad
+65,female,0,rent,quite rich,little,9790,40,furniture,bad
+37,male,3,free,moderate,rich,10653,63,car,bad
+50,female,3,own,moderate,little,3297,15,business,good
+47,male,0,own,quite rich,rich,1780,15,furniture,good
+54,female,3,free,rich,moderate,1120,36,education,good
+60,male,2,own,quite rich,moderate,2918,71,business,bad
+49,male,1,own,rich,little,3179,41,radio/TV,bad
+20,male,3,own,rich,moderate,8145,10,business,good
+71,male,3,own,moderate,little,3368,23,business,bad
+29,male,2,free,little,little,7632,58,business,bad
+42,male,2,own,quite rich,moderate,12397,57,radio/TV,good
+26,female,3,free,rich,rich,9666,41,education,bad
+61,female,3,free,quite rich,little,14736,63,radio/TV,bad
+70,female,1,own,rich,little,1720,11,education,bad
+62,female,3,own,little,little,5233,21,car,bad
+39,female,1,free,quite rich,rich,2472,43,education,bad
+29,male,1,rent,little,rich,12644,9,business,bad
+61,male,2,own,moderate,little,7341,10,radio/TV,bad
+67,male,0,own,little,moderate,3899,48,education,good
+38,female,0,rent,rich,moderate,9004,55,furniture,good
+50,male,1,free,quite rich,rich,6305,24,business,bad
+72,male,1,own,little,little,14691,26,business,bad
+75,female,3,own,little,rich,14471,68,radio/TV,good
+50,female,0,own,moderate,little,7783,31,car,good
+47,male,2,rent,rich,little,8939,14,radio/TV,bad
+34,female,0,free,moderate,moderate,6778,8,business,good
+51,female,2,rent,little,rich,3832,38,radio/TV,good
+44,male,1,own,rich,moderate,695,39,education,bad
+30,female,0,own,rich,little,12137,28,car,bad
+54,male,3,rent,quite rich,little,8890,61,radio/TV,good
+55,female,0,rent,rich,rich,7281,61,education,bad
+34,male,3,free,little,rich,6159,72,car,bad
+46,female,0,rent,moderate,moderate,9744,36,education,bad
+42,male,3,own,quite rich,moderate,12717,53,furniture,good
+28,male,3,own,quite rich,moderate,7616,37,education,bad
+45,male,1,free,rich,moderate,9061,69,education,good
+64,male,1,own,little,moderate,12711,33,business,bad
+28,female,1,rent,quite rich,moderate,7099,25,furniture,bad
+26,female,2,own,moderate,little,12579,55,radio/TV,good
+70,female,3,own,rich,rich,14702,66,education,good
+70,male,1,own,quite rich,moderate,8201,15,radio/TV,good
+64,female,0,own,moderate,moderate,8997,19,education,good
+26,male,0,own,moderate,rich,10598,47,radio/TV,good
+41,male,1,free,quite rich,rich,3483,35,education,good
+38,male,0,rent,quite rich,rich,12448,49,radio/TV,good
+43,male,3,own,little,moderate,2276,32,furniture,good
+46,male,3,own,quite rich,little,10180,23,radio/TV,bad
+66,male,2,own,quite rich,moderate,10850,68,business,good
+36,female,3,rent,quite rich,moderate,2040,9,education,bad
+47,female,3,own,rich,moderate,6466,54,business,bad
+27,male,3,own,rich,rich,10678,66,furniture,bad
+64,female,1,own,little,little,2643,68,business,bad
+52,female,1,free,quite rich,rich,4831,59,furniture,bad
+52,female,3,own,moderate,rich,5488,69,education,good
+52,female,2,rent,moderate,moderate,2912,10,education,bad
+53,female,1,rent,quite rich,moderate,6289,41,car,bad
+34,male,1,free,moderate,moderate,7956,18,radio/TV,good
+51,male,1,own,moderate,little,2805,51,furniture,bad
+54,male,1,rent,moderate,rich,12259,21,radio/TV,good
+41,female,0,own,quite rich,moderate,566,29,car,bad
+30,female,0,own,moderate,moderate,5050,33,education,good
+60,male,2,free,rich,little,7579,47,radio/TV,good
+53,female,1,free,rich,rich,1846,56,education,bad
+20,male,3,free,little,moderate,4264,66,radio/TV,bad
+54,female,3,rent,rich,little,5073,46,furniture,good
+68,female,2,own,quite rich,moderate,10797,47,radio/TV,bad
+48,male,1,free,little,rich,11740,33,education,bad
+20,female,2,free,moderate,little,14561,25,business,bad
+56,male,3,own,moderate,moderate,1256,14,education,good
+65,female,3,free,little,rich,3935,59,education,bad
+47,male,2,rent,moderate,little,10455,58,business,bad
+18,female,2,own,moderate,moderate,5962,34,business,bad
+52,female,2,rent,moderate,rich,14549,17,furniture,bad
+47,female,2,rent,quite rich,moderate,8237,7,car,good
+53,female,2,rent,moderate,rich,10934,12,radio/TV,good
+36,female,3,rent,moderate,moderate,11436,40,education,bad
+65,female,1,rent,rich,moderate,4591,24,furniture,good
+31,female,3,rent,rich,moderate,14729,7,car,good
+64,male,2,rent,quite rich,little,2399,61,education,bad
+26,male,2,free,rich,rich,2876,63,furniture,bad
+53,male,3,rent,little,moderate,1414,49,radio/TV,bad
+43,female,1,free,rich,moderate,3568,42,furniture,good
+72,female,3,rent,little,little,1236,41,furniture,bad
+37,male,1,own,quite rich,little,13594,8,furniture,bad
+42,female,1,own,moderate,rich,831,44,radio/TV,bad
+63,female,1,rent,rich,little,3287,15,radio/TV,bad
+51,female,2,rent,rich,moderate,14483,55,furniture,good
+21,female,3,free,rich,rich,6343,23,business,bad
+68,female,2,own,quite rich,moderate,9395,13,car,bad
+39,female,3,free,little,rich,14654,31,furniture,bad
+57,male,1,free,little,little,10995,24,car,bad
+54,female,3,free,quite rich,moderate,10551,39,car,bad
+65,male,1,rent,quite rich,rich,8370,59,business,good
+64,male,0,own,little,rich,5295,29,business,good
+34,female,3,rent,quite rich,little,14115,50,education,bad
+57,male,1,free,quite rich,moderate,3222,8,business,good
+54,male,0,free,moderate,moderate,7830,22,business,good
+58,female,1,own,quite rich,moderate,4205,34,business,bad
+62,female,2,own,moderate,little,6518,33,car,bad
+70,female,1,rent,quite rich,moderate,7106,47,furniture,good
+29,male,2,free,rich,moderate,4485,23,business,bad
+68,female,1,own,rich,little,13023,45,furniture,bad
+39,male,1,own,rich,rich,6203,22,business,good
+65,male,0,free,rich,little,4414,59,radio/TV,bad
+36,male,3,rent,little,moderate,4115,35,business,good
+26,male,2,rent,quite rich,little,7333,38,furniture,bad
+71,female,1,free,little,moderate,9226,30,education,bad
+21,female,3,rent,little,little,6685,12,education,good
+25,female,2,own,quite rich,little,3590,12,education,bad
+49,male,3,free,quite rich,rich,6250,68,car,good
+43,female,2,free,moderate,moderate,14020,43,radio/TV,bad
+57,female,3,rent,moderate,moderate,7958,48,radio/TV,good
+22,male,3,free,moderate,moderate,11938,25,business,good
+18,female,2,free,moderate,moderate,691,27,business,bad
+74,male,0,rent,moderate,little,918,64,education,bad
+70,male,3,free,quite rich,moderate,11840,70,education,bad
+25,male,3,rent,quite rich,rich,13772,53,business,bad
+47,female,0,rent,quite rich,moderate,12214,35,radio/TV,good
+37,female,1,free,little,rich,13651,29,furniture,good
+73,male,0,own,moderate,moderate,9837,17,furniture,good
+19,male,3,free,rich,moderate,7796,38,radio/TV,bad
+27,male,3,free,quite rich,moderate,2875,47,radio/TV,good
+39,female,2,free,moderate,little,14757,66,car,bad
+27,female,3,rent,rich,rich,5930,47,business,good
+55,male,2,rent,rich,rich,12425,35,furniture,bad
+50,female,2,own,little,rich,8469,58,furniture,bad
+36,female,0,own,little,rich,4301,45,car,good
+69,male,3,free,moderate,moderate,10664,19,furniture,bad
+66,female,2,rent,quite rich,rich,12395,56,education,good
+72,male,1,rent,quite rich,little,8124,14,education,bad
+57,female,0,rent,rich,little,11942,48,business,good
+42,female,3,free,quite rich,rich,10462,23,car,good
+31,male,0,rent,quite rich,little,6021,25,education,bad
+56,female,1,own,little,rich,502,41,furniture,bad
+59,female,1,rent,moderate,rich,6345,67,business,good
+49,female,0,free,moderate,little,4309,69,radio/TV,good
+19,female,0,free,little,little,7558,61,radio/TV,good
+65,male,2,free,rich,rich,1140,8,furniture,bad
+40,female,1,rent,moderate,rich,6341,48,furniture,good
+61,female,0,free,moderate,little,11624,27,business,good
+38,male,0,rent,little,moderate,1812,22,business,good
+35,male,1,rent,moderate,little,3379,47,furniture,bad
+74,male,0,own,quite rich,rich,5287,46,business,bad
+41,male,0,free,little,rich,5754,65,education,bad
+51,female,3,rent,rich,little,7020,12,car,bad
+42,female,1,rent,quite rich,moderate,14215,68,car,bad
+56,female,1,free,rich,little,2383,44,business,good
+55,male,2,rent,moderate,little,13588,31,business,bad
+37,female,3,rent,rich,little,10739,51,education,bad
+65,female,1,free,quite rich,rich,3051,39,education,good
+41,male,3,rent,moderate,little,5826,67,furniture,bad
+52,female,2,rent,rich,moderate,13527,34,business,good
+72,male,1,rent,quite rich,moderate,6425,56,car,good
+40,female,1,free,little,moderate,4797,40,business,bad
+63,female,2,own,moderate,moderate,3276,57,furniture,good
+53,female,1,free,quite rich,moderate,1707,66,radio/TV,bad
+66,female,2,rent,little,little,6234,49,furniture,good
+53,male,3,own,little,rich,1970,42,business,bad
+46,male,0,own,quite rich,moderate,8402,14,car,bad
+67,male,2,free,moderate,rich,2461,53,car,good
+58,female,1,rent,rich,moderate,7470,47,furniture,good
+21,male,2,own,quite rich,moderate,5656,10,business,bad
+27,male,3,free,quite rich,moderate,8204,17,radio/TV,good
+44,male,3,rent,rich,rich,8994,16,business,bad
+67,female,3,free,moderate,little,5975,49,business,bad
+72,male,1,rent,rich,little,5275,66,radio/TV,good
+50,female,1,own,moderate,rich,2228,32,car,good
+69,female,1,free,little,moderate,5391,8,furniture,bad
+22,female,3,free,little,rich,11988,9,radio/TV,bad
+62,male,1,own,quite rich,little,7430,14,business,good
+58,female,2,own,moderate,moderate,11694,32,furniture,bad
+33,male,3,free,quite rich,rich,14247,51,education,bad
+63,male,3,own,little,little,12104,16,business,good
+23,male,0,rent,quite rich,little,12177,47,business,bad
+61,female,3,free,quite rich,little,5301,43,furniture,bad
+46,male,0,free,rich,moderate,4203,41,radio/TV,good
+55,male,0,rent,quite rich,little,8635,39,business,bad
+33,male,0,free,rich,little,7143,21,car,bad
+38,male,1,free,moderate,moderate,2452,61,car,bad
+31,male,1,rent,little,moderate,6232,54,business,good
+38,male,0,rent,rich,little,4985,65,business,good
+46,female,3,free,moderate,rich,4273,49,business,bad
+19,male,0,own,moderate,moderate,10013,13,car,good
+73,female,1,rent,rich,little,4096,36,business,bad
+21,female,3,own,rich,little,7361,43,education,bad
+34,male,1,own,moderate,little,2895,47,education,good
+24,male,3,free,quite rich,moderate,13719,67,radio/TV,good
+50,male,3,rent,little,rich,2366,14,radio/TV,bad
+38,male,3,rent,quite rich,moderate,3458,58,education,good
+34,female,1,own,little,moderate,4607,43,radio/TV,bad
+18,female,0,rent,quite rich,rich,3860,18,radio/TV,bad
+63,female,1,own,rich,little,7715,12,furniture,good
+49,female,1,rent,rich,moderate,13343,34,radio/TV,bad
+63,male,2,rent,moderate,moderate,8158,25,car,good
+22,male,0,rent,moderate,rich,1661,44,furniture,good
+59,male,2,own,moderate,rich,7255,33,business,good
+60,male,0,own,rich,rich,2667,51,radio/TV,bad
+26,male,1,free,rich,moderate,3594,8,education,bad
+62,female,1,own,moderate,moderate,4689,54,business,good
+63,female,0,rent,quite rich,little,12189,57,furniture,bad
+54,female,0,rent,rich,rich,9513,41,furniture,bad
+33,male,1,own,rich,little,14306,65,furniture,good
+45,male,2,free,quite rich,rich,2966,61,radio/TV,good
+51,male,2,rent,quite rich,moderate,1787,63,furniture,bad
+30,female,3,own,little,rich,5271,6,education,bad
+26,female,0,free,moderate,rich,5976,34,education,good
+40,male,2,own,rich,little,10126,44,education,bad
+34,female,3,free,quite rich,moderate,5682,61,radio/TV,bad
+28,male,0,own,quite rich,moderate,10543,31,business,bad
+28,female,2,own,little,rich,9804,19,business,bad
+21,male,1,rent,quite rich,little,14185,16,education,bad
+66,female,2,own,rich,rich,11491,52,radio/TV,good
+33,male,3,free,rich,little,1585,9,radio/TV,bad
+69,male,1,free,quite rich,little,13167,20,car,bad
+25,male,0,free,rich,moderate,9336,29,car,bad
+22,male,2,free,rich,moderate,3521,16,furniture,bad
+26,male,1,free,quite rich,little,4471,50,business,good
+27,male,1,rent,rich,little,5143,37,education,good
+49,female,1,rent,little,little,2457,13,car,good
+52,male,3,free,rich,moderate,8678,49,radio/TV,good
+52,male,3,own,moderate,rich,7086,69,radio/TV,good
+70,female,2,free,little,little,1090,14,business,bad
+41,female,1,rent,rich,rich,2155,15,education,good
+32,female,0,free,quite rich,little,9553,7,radio/TV,good
+34,female,3,rent,little,moderate,4007,34,furniture,good
+34,male,1,free,quite rich,little,12338,45,radio/TV,good
+68,female,3,own,moderate,moderate,11487,32,radio/TV,bad
+49,male,1,own,rich,moderate,11472,41,education,good
+19,male,0,free,rich,rich,2070,62,business,good
+51,male,2,rent,little,little,3328,49,business,good
+60,male,3,rent,quite rich,little,3986,13,furniture,good
+75,female,1,own,little,rich,12857,63,car,good
+41,female,3,own,quite rich,rich,12539,19,furniture,good
+30,male,0,free,little,moderate,8281,26,car,bad
+38,male,0,own,rich,rich,11197,56,furniture,bad
+63,male,2,rent,moderate,moderate,4159,69,furniture,bad
+23,male,2,own,little,rich,2789,17,business,bad
+21,male,2,own,rich,rich,10650,61,business,bad
+47,female,3,own,quite rich,moderate,7998,18,business,good
+26,male,2,own,little,moderate,8040,63,business,good
+51,male,0,own,moderate,moderate,14937,54,furniture,good
+60,female,1,own,moderate,moderate,11767,24,education,good
+57,female,0,free,moderate,little,3973,51,car,bad
+27,female,1,own,quite rich,little,3810,40,furniture,good
+68,male,2,own,rich,moderate,14313,33,car,good
+30,male,1,rent,moderate,moderate,4572,71,business,good
+59,female,0,rent,little,little,14370,59,car,bad
+75,female,2,rent,little,rich,11472,48,business,bad
+37,female,2,rent,little,rich,10725,31,radio/TV,bad
+59,male,0,own,rich,little,2627,15,car,good
+44,male,1,rent,little,rich,8431,60,furniture,good
+29,female,2,own,rich,little,14680,59,education,bad
+33,female,3,own,little,rich,13036,62,radio/TV,good
+37,female,0,own,quite rich,moderate,1137,62,business,good
+74,male,1,rent,moderate,moderate,12788,27,education,bad
+73,female,3,free,rich,moderate,14120,32,car,good
+57,female,3,free,rich,rich,10613,9,car,good
+43,female,1,rent,little,rich,10976,69,education,bad
+61,male,2,rent,little,little,13182,14,business,bad
+23,female,2,rent,rich,moderate,6037,55,business,bad
+33,female,1,free,moderate,rich,6312,30,furniture,bad
+51,male,2,own,quite rich,rich,12512,22,radio/TV,bad
+51,male,2,free,rich,rich,14397,55,radio/TV,bad
+23,female,3,own,moderate,little,8267,49,furniture,bad
+39,male,3,own,quite rich,moderate,3941,58,furniture,bad
+22,female,3,rent,little,rich,11004,72,business,bad
+34,female,1,free,little,rich,3983,52,furniture,good
+31,female,3,rent,rich,little,5041,12,business,good
+46,female,3,free,rich,moderate,13892,20,business,good
+37,female,1,own,quite rich,moderate,10193,16,business,good
+68,male,1,own,little,little,7583,44,furniture,bad
+53,male,0,free,quite rich,moderate,4964,41,radio/TV,bad
+72,male,1,free,quite rich,little,3177,27,car,good
+28,male,1,rent,quite rich,rich,2267,42,radio/TV,bad
+43,male,2,free,little,rich,9696,36,radio/TV,good
+55,female,3,own,rich,rich,7100,69,furniture,bad
+19,male,0,rent,rich,little,13432,19,radio/TV,bad
+54,female,1,rent,moderate,little,9346,28,car,bad
+42,female,2,free,quite rich,little,6512,65,furniture,good
+44,male,3,rent,quite rich,little,14095,28,radio/TV,good
+45,female,1,rent,rich,moderate,5305,22,furniture,good
+71,male,2,own,moderate,moderate,3511,53,education,good
+72,male,1,free,moderate,rich,6063,62,business,bad
+53,female,3,own,little,moderate,7629,13,business,bad
+61,male,2,own,quite rich,rich,11219,14,furniture,good
+68,female,3,free,moderate,moderate,4427,63,business,good
+38,male,0,rent,quite rich,little,8620,56,furniture,good
+31,male,2,rent,little,little,11748,61,car,bad
+34,male,3,rent,moderate,rich,6957,67,furniture,good
+55,male,1,own,quite rich,little,10250,54,car,good
+53,male,0,free,quite rich,rich,4807,43,furniture,good
+38,male,0,own,rich,rich,7232,15,business,good
+72,male,0,free,quite rich,little,6300,56,car,good
+28,female,2,own,moderate,rich,12262,30,radio/TV,bad
+45,male,1,rent,little,little,8384,69,furniture,bad
+41,male,2,rent,little,moderate,4319,58,education,bad
+75,male,2,free,moderate,little,12255,61,business,good
+40,male,0,own,little,little,5684,25,car,good
+67,male,0,free,quite rich,moderate,11454,7,car,bad
+42,male,1,rent,moderate,little,13005,21,education,bad
+53,male,0,rent,quite rich,little,2025,61,radio/TV,bad
+64,male,1,rent,little,little,3346,33,education,good
+64,male,0,free,rich,rich,5289,25,car,good
+31,female,0,rent,quite rich,rich,4598,38,furniture,good
+38,female,0,own,quite rich,little,5968,52,furniture,bad
+49,male,1,rent,moderate,moderate,2255,22,car,good
+73,female,3,own,moderate,moderate,12753,48,business,bad
+31,female,0,free,rich,little,3544,71,furniture,good
+65,female,1,rent,little,little,7418,11,car,good
+56,female,1,rent,quite rich,little,5956,18,education,bad
+54,female,3,own,rich,moderate,12052,60,car,good
+41,female,0,rent,rich,little,3999,62,furniture,good
+22,female,3,rent,moderate,little,12935,50,business,good
+70,male,3,own,little,little,12745,9,furniture,bad
+22,female,2,rent,quite rich,moderate,12242,70,business,bad
+33,female,3,free,quite rich,rich,13558,62,car,bad
+72,female,2,rent,moderate,rich,2811,20,furniture,bad
+53,female,1,own,moderate,moderate,8818,33,business,bad
+40,male,2,free,moderate,moderate,8764,69,car,bad
+48,female,1,rent,quite rich,moderate,6643,56,education,good
+51,male,1,rent,quite rich,rich,964,52,furniture,good
+64,female,1,rent,quite rich,little,5947,49,education,good
+20,female,1,own,moderate,moderate,8947,6,education,bad
+58,female,3,rent,rich,rich,13537,46,car,good
+18,male,3,free,moderate,moderate,4128,71,radio/TV,good
+56,female,1,own,rich,rich,11403,41,education,good
+73,female,1,own,little,moderate,6548,8,radio/TV,bad
+67,female,2,free,rich,rich,6348,13,furniture,bad
+49,female,2,own,little,little,5078,20,radio/TV,bad
+74,male,0,own,rich,rich,9933,43,car,good
+39,female,3,rent,little,moderate,14743,25,education,good
+31,male,0,own,little,little,14852,9,car,good
+49,female,2,free,quite rich,little,8805,8,education,good
+73,female,3,own,little,little,6183,13,furniture,bad
+72,male,0,rent,little,little,10714,57,furniture,good
+47,male,1,own,rich,little,14047,7,radio/TV,bad
+62,female,1,free,quite rich,little,11916,65,business,bad
+26,male,2,rent,moderate,little,11972,36,furniture,good
+46,female,2,rent,moderate,rich,8619,21,car,good
+42,male,2,own,rich,little,8994,64,car,bad
+59,male,3,rent,quite rich,moderate,8513,14,education,good
+32,female,3,own,moderate,little,4678,27,radio/TV,bad
+39,female,2,own,little,little,14762,32,car,good
+21,female,0,free,rich,moderate,6455,14,education,bad
+30,male,1,own,little,little,6627,27,furniture,bad
+26,male,3,free,quite rich,rich,12904,37,car,good
+18,male,0,free,little,rich,7743,65,radio/TV,good
+63,female,3,free,quite rich,little,4174,53,furniture,good
+31,female,1,rent,rich,moderate,13173,38,furniture,good
+33,female,3,rent,moderate,little,13631,18,car,good
+50,female,3,free,moderate,little,13310,48,furniture,good
+60,female,2,own,quite rich,little,4060,46,furniture,good
+23,female,3,own,moderate,rich,8156,57,furniture,bad
+26,male,0,rent,moderate,moderate,5717,33,education,good
+46,female,3,own,quite rich,rich,1959,48,car,bad
+54,female,1,own,rich,little,3946,61,furniture,bad
+23,male,0,rent,rich,moderate,1199,60,furniture,good
+70,male,3,free,moderate,little,8953,27,furniture,good
+22,female,1,free,quite rich,rich,5562,69,radio/TV,good
+29,male,0,own,moderate,moderate,11118,17,education,good
+67,male,2,rent,quite rich,rich,9467,12,furniture,good
+54,female,3,free,little,rich,9563,59,education,good
+63,female,0,own,rich,rich,9755,28,education,bad
+26,female,3,rent,quite rich,rich,3984,44,furniture,bad
+56,female,1,free,quite rich,moderate,11770,48,business,bad
+45,female,2,rent,moderate,moderate,12735,59,furniture,good
+71,male,1,free,rich,little,12290,65,business,good
+37,male,2,free,rich,little,11845,15,business,bad
+32,female,2,own,moderate,moderate,5795,65,radio/TV,bad
+67,female,2,own,quite rich,little,7169,14,car,bad
+52,male,2,rent,rich,little,9261,63,car,bad
+27,female,3,free,little,rich,7212,28,car,bad
+48,male,3,rent,moderate,moderate,13123,16,furniture,bad
+59,male,2,free,moderate,rich,13624,12,furniture,bad
+33,male,3,own,little,little,5426,30,radio/TV,good
+38,female,0,free,quite rich,moderate,4702,56,radio/TV,good
+30,female,3,rent,rich,rich,6478,9,education,bad
+28,male,0,own,little,moderate,8290,38,radio/TV,bad
+30,male,3,rent,rich,moderate,2380,13,furniture,bad
+28,male,0,free,moderate,rich,5114,44,business,good
+34,female,1,rent,moderate,rich,1069,49,radio/TV,bad
+27,female,2,rent,moderate,little,11109,60,furniture,good
+20,female,3,rent,little,rich,8028,6,education,bad
+26,female,2,own,quite rich,little,2741,8,radio/TV,bad
+56,female,3,own,rich,moderate,10110,48,furniture,bad
+20,female,0,free,rich,little,6936,64,business,bad
+74,female,1,rent,quite rich,little,8812,31,education,good
+63,female,0,free,rich,moderate,7739,41,radio/TV,good
+68,male,2,own,quite rich,rich,10823,25,education,bad
+51,male,3,free,little,little,14544,66,education,good
+57,male,3,own,rich,moderate,8778,63,business,bad
+39,male,1,free,little,moderate,8311,34,education,bad
+68,female,2,rent,moderate,moderate,8548,37,car,bad
+48,male,1,free,quite rich,little,11452,34,business,good
+52,female,2,rent,quite rich,moderate,4549,42,business,bad
+47,female,3,rent,quite rich,moderate,10814,38,radio/TV,good
+40,female,2,rent,quite rich,little,9630,38,car,bad
+66,female,2,own,rich,rich,2686,60,radio/TV,good
+67,female,2,free,rich,rich,11153,60,car,bad
+37,male,1,rent,little,little,2796,57,business,bad
+39,female,0,own,quite rich,rich,13135,53,car,good
+30,male,3,rent,rich,rich,568,46,radio/TV,bad
+30,male,0,own,rich,moderate,6145,43,furniture,bad
+75,male,1,free,quite rich,little,5526,39,furniture,bad
+66,female,1,rent,moderate,little,1360,62,business,good
+66,female,2,rent,moderate,rich,12195,31,radio/TV,good
+26,female,0,rent,quite rich,little,2855,48,education,good
+29,male,2,rent,quite rich,little,8133,19,radio/TV,good
+48,male,2,free,rich,moderate,9052,23,education,bad
+58,female,1,own,little,rich,675,63,car,bad
+44,female,2,rent,little,rich,14257,36,furniture,good
+75,female,0,own,little,moderate,11277,43,education,good
+63,male,0,free,moderate,little,2838,13,radio/TV,bad
+64,male,3,rent,little,moderate,9705,34,radio/TV,good
+31,male,3,rent,rich,little,11484,65,furniture,bad
+75,male,1,free,rich,little,5982,61,business,bad
+18,male,3,rent,rich,rich,7554,24,business,good
+28,female,0,own,rich,little,14728,42,radio/TV,good
+53,female,2,own,quite rich,moderate,11898,14,education,bad
+28,male,0,rent,little,little,10688,9,car,good
+45,female,2,free,moderate,moderate,8596,18,business,good
+58,male,1,own,moderate,little,3837,58,education,good
+68,female,3,own,little,rich,2197,41,education,bad
+46,female,1,own,quite rich,moderate,13046,11,radio/TV,bad
+49,male,1,rent,rich,little,3010,61,furniture,bad
+35,female,1,own,little,little,13525,8,furniture,good
+50,female,2,free,quite rich,little,14950,41,car,bad
+33,male,0,free,rich,little,7391,64,car,bad
+22,female,2,own,quite rich,moderate,7790,69,car,good
+40,male,3,own,little,moderate,2714,9,business,bad
+38,male,2,free,quite rich,moderate,13638,61,education,good
+75,male,1,own,little,rich,3853,59,car,bad
+57,male,3,own,moderate,little,13062,55,education,bad
+42,female,3,rent,little,little,14231,17,furniture,good
+27,male,1,free,moderate,rich,5337,8,business,bad
+25,female,3,free,rich,moderate,6208,18,car,bad
+23,male,0,free,little,rich,12014,35,business,good
+52,female,1,rent,little,moderate,5690,39,car,good
+31,female,3,own,little,rich,10808,47,business,good
+61,female,3,free,quite rich,little,14812,28,car,good
+64,female,2,free,moderate,little,10819,70,business,bad
+75,female,0,rent,quite rich,little,14967,64,radio/TV,bad
+29,female,1,rent,quite rich,moderate,13068,56,car,good
+55,female,2,rent,quite rich,moderate,4938,28,car,bad
+73,female,3,rent,little,moderate,14131,27,car,good
+42,male,2,own,little,rich,2484,38,car,bad
+63,male,3,own,little,rich,5327,45,furniture,good
+34,male,3,own,little,moderate,7227,66,furniture,bad
+18,male,1,free,rich,rich,14332,42,business,good
+45,male,0,rent,little,rich,3476,58,business,good
+34,female,3,rent,quite rich,little,810,47,education,good
+32,female,1,own,moderate,moderate,13577,55,radio/TV,good
+52,female,0,free,rich,rich,12524,50,furniture,good
+37,male,1,rent,little,moderate,9478,26,business,good
+70,female,0,own,quite rich,little,7401,59,business,good
+39,male,0,own,quite rich,little,3255,11,furniture,good
+50,female,2,own,quite rich,rich,7796,72,radio/TV,good
+50,male,0,own,rich,rich,14338,64,business,bad
+59,male,0,free,little,little,12742,65,radio/TV,bad
+71,female,0,own,quite rich,little,5715,47,education,good
+29,female,3,rent,rich,rich,5535,58,business,good
+47,female,2,rent,rich,rich,1815,22,radio/TV,good
+29,female,0,own,rich,moderate,12476,67,education,good
+64,female,2,rent,quite rich,rich,9278,21,education,good
+55,female,0,rent,quite rich,little,2788,50,furniture,good
+55,male,2,own,moderate,little,12086,44,radio/TV,good
+41,male,2,own,moderate,little,14296,16,education,bad
+27,male,1,own,little,little,617,48,car,good
+27,male,0,own,quite rich,rich,4199,44,car,bad
+36,male,3,free,moderate,little,970,70,furniture,good
+48,male,2,own,rich,rich,13859,24,furniture,bad
+67,male,1,rent,moderate,moderate,11611,9,business,good
+22,female,0,free,rich,rich,3956,70,education,good
+37,female,3,own,moderate,rich,5164,63,car,good
+63,female,1,free,quite rich,little,4833,31,car,good
+26,female,0,rent,moderate,moderate,8945,65,radio/TV,bad
+36,male,0,own,moderate,moderate,9575,19,business,good
+71,female,3,rent,rich,little,11019,32,radio/TV,bad
+75,male,0,own,rich,rich,11015,59,business,good
+67,male,0,own,rich,rich,3595,48,car,good
+57,female,1,own,moderate,rich,10924,32,car,good
+18,female,1,rent,little,little,11418,50,radio/TV,good
+35,male,0,free,quite rich,moderate,14691,8,education,good
+64,male,0,own,moderate,little,11995,38,car,good
+36,female,0,own,little,moderate,10622,34,radio/TV,good
+23,male,0,own,quite rich,rich,14746,72,education,bad
+28,female,3,own,little,moderate,11088,23,business,bad
+20,male,0,own,quite rich,little,3768,13,radio/TV,good
+49,male,3,own,rich,rich,13347,14,furniture,good
+55,female,3,free,little,rich,3046,47,car,good
+19,female,0,rent,moderate,rich,11998,21,car,bad
+38,female,2,own,quite rich,little,6840,50,furniture,bad
+47,female,2,rent,quite rich,little,14340,12,education,bad
+48,female,3,rent,moderate,rich,1715,67,car,bad
+65,female,0,rent,quite rich,rich,2544,12,education,good
+32,female,2,rent,rich,rich,3368,67,furniture,bad
+32,male,1,own,little,rich,14385,44,radio/TV,bad
+51,female,3,rent,quite rich,little,8782,13,radio/TV,bad
+50,female,3,rent,little,little,10454,55,education,bad
+22,female,1,own,rich,rich,4170,60,radio/TV,good
+26,male,2,rent,quite rich,moderate,6432,19,furniture,good
+50,female,3,free,quite rich,rich,11379,13,furniture,bad
+74,female,0,rent,rich,moderate,14366,12,business,bad
+49,male,2,rent,moderate,little,10384,58,education,bad
+36,male,1,own,moderate,little,11121,15,radio/TV,good
+51,female,0,own,rich,little,9354,63,education,good
+33,female,0,free,quite rich,rich,8810,64,business,good
+38,male,1,free,little,moderate,8656,64,business,bad
+45,female,1,free,moderate,little,14056,68,radio/TV,bad
+38,female,0,free,quite rich,moderate,1259,51,radio/TV,bad
+51,male,0,own,rich,little,12507,40,education,good
+73,female,3,own,moderate,rich,1538,64,furniture,good
+50,male,3,own,quite rich,little,3733,38,furniture,bad
+29,male,3,own,rich,little,8206,9,furniture,bad
+44,female,1,free,moderate,moderate,4696,7,furniture,bad
+32,female,3,free,moderate,moderate,11772,29,business,good
+37,male,3,own,little,moderate,9261,12,radio/TV,good
+49,female,0,own,little,little,6148,8,business,good
+34,female,0,free,rich,little,11201,45,car,good
+18,female,2,free,rich,rich,4426,23,business,good
+38,male,0,rent,quite rich,moderate,6094,23,business,bad
+33,male,1,rent,moderate,moderate,13018,47,business,good
+66,female,3,rent,little,moderate,3022,72,education,bad
+51,female,3,rent,rich,rich,12766,22,education,good
+71,female,1,free,moderate,rich,10766,21,car,good
+35,male,0,own,moderate,rich,3237,11,business,good
+27,male,1,rent,moderate,rich,11243,28,car,bad
+32,female,0,rent,quite rich,rich,3761,13,business,bad
+37,female,0,free,moderate,little,9939,8,car,good
+61,male,0,own,moderate,moderate,11084,18,furniture,bad
+25,male,0,rent,rich,rich,13444,47,car,bad
+59,male,1,own,quite rich,moderate,7083,64,business,good
+36,female,1,own,moderate,moderate,1236,35,radio/TV,good
+31,female,3,rent,moderate,moderate,3935,26,education,bad
+65,female,1,free,little,little,14589,39,furniture,good
+45,male,3,rent,little,moderate,14617,18,education,bad
+53,female,0,own,rich,moderate,2676,38,car,bad
+24,male,1,own,moderate,rich,3184,63,business,good
+75,male,1,rent,rich,rich,14033,45,car,good
+39,male,1,free,moderate,little,1753,49,radio/TV,bad
+33,female,1,free,rich,moderate,3265,48,radio/TV,good
+23,female,2,own,little,moderate,3058,18,business,bad
+54,female,1,free,moderate,little,14389,23,business,bad
+19,male,3,rent,moderate,rich,1824,57,business,bad
+56,male,0,own,quite rich,moderate,6550,19,car,bad
+19,female,3,own,moderate,rich,12308,17,car,bad
+38,female,0,rent,rich,moderate,14110,70,radio/TV,bad
+39,female,0,free,little,moderate,12864,36,radio/TV,bad
+30,female,3,free,quite rich,moderate,7983,41,furniture,bad
+20,male,1,free,moderate,rich,7072,67,furniture,bad
+20,female,3,free,moderate,little,5053,27,education,good
+55,male,1,rent,quite rich,moderate,9354,52,education,good
+49,male,1,own,quite rich,rich,13527,65,business,good
+55,male,2,own,rich,moderate,9288,46,car,good
+61,female,3,own,quite rich,little,8366,30,radio/TV,good
+54,female,3,own,moderate,little,3533,42,radio/TV,good
+61,male,1,own,moderate,moderate,4688,26,car,good
+71,male,0,rent,rich,moderate,5639,63,radio/TV,bad
+54,female,1,rent,moderate,moderate,12594,34,furniture,bad

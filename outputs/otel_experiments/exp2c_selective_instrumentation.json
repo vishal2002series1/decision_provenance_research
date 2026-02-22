@@ -1,0 +1,182 @@
+[
+  {
+    "strategy": "Baseline (No instrumentation)",
+    "otel_enabled": false,
+    "dpg_enabled": false,
+    "run_number": 1,
+    "seed": 42,
+    "latency_per_decision_ms": 1.3350579738616943,
+    "timestamp": 1766153857.029444
+  },
+  {
+    "strategy": "Baseline (No instrumentation)",
+    "otel_enabled": false,
+    "dpg_enabled": false,
+    "run_number": 2,
+    "seed": 43,
+    "latency_per_decision_ms": 1.3284268379211426,
+    "timestamp": 1766153858.358031
+  },
+  {
+    "strategy": "Baseline (No instrumentation)",
+    "otel_enabled": false,
+    "dpg_enabled": false,
+    "run_number": 3,
+    "seed": 44,
+    "latency_per_decision_ms": 1.312788963317871,
+    "timestamp": 1766153859.671036
+  },
+  {
+    "strategy": "Baseline (No instrumentation)",
+    "otel_enabled": false,
+    "dpg_enabled": false,
+    "run_number": 4,
+    "seed": 45,
+    "latency_per_decision_ms": 1.3314568996429443,
+    "timestamp": 1766153861.002659
+  },
+  {
+    "strategy": "Baseline (No instrumentation)",
+    "otel_enabled": false,
+    "dpg_enabled": false,
+    "run_number": 5,
+    "seed": 46,
+    "latency_per_decision_ms": 1.326551914215088,
+    "timestamp": 1766153862.329366
+  },
+  {
+    "strategy": "OTel Only",
+    "otel_enabled": true,
+    "dpg_enabled": false,
+    "run_number": 1,
+    "seed": 42,
+    "latency_per_decision_ms": 1.4571459293365479,
+    "timestamp": 1766153863.796374
+  },
+  {
+    "strategy": "OTel Only",
+    "otel_enabled": true,
+    "dpg_enabled": false,
+    "run_number": 2,
+    "seed": 43,
+    "latency_per_decision_ms": 1.4211201667785645,
+    "timestamp": 1766153865.2181811
+  },
+  {
+    "strategy": "OTel Only",
+    "otel_enabled": true,
+    "dpg_enabled": false,
+    "run_number": 3,
+    "seed": 44,
+    "latency_per_decision_ms": 1.5066900253295898,
+    "timestamp": 1766153866.727067
+  },
+  {
+    "strategy": "OTel Only",
+    "otel_enabled": true,
+    "dpg_enabled": false,
+    "run_number": 4,
+    "seed": 45,
+    "latency_per_decision_ms": 1.455650806427002,
+    "timestamp": 1766153868.1849222
+  },
+  {
+    "strategy": "OTel Only",
+    "otel_enabled": true,
+    "dpg_enabled": false,
+    "run_number": 5,
+    "seed": 46,
+    "latency_per_decision_ms": 1.4964070320129395,
+    "timestamp": 1766153869.685816
+  },
+  {
+    "strategy": "DPG Only",
+    "otel_enabled": false,
+    "dpg_enabled": true,
+    "run_number": 1,
+    "seed": 42,
+    "latency_per_decision_ms": 0.13959360122680664,
+    "timestamp": 1766153869.834365
+  },
+  {
+    "strategy": "DPG Only",
+    "otel_enabled": false,
+    "dpg_enabled": true,
+    "run_number": 2,
+    "seed": 43,
+    "latency_per_decision_ms": 0.11339998245239258,
+    "timestamp": 1766153869.9543219
+  },
+  {
+    "strategy": "DPG Only",
+    "otel_enabled": false,
+    "dpg_enabled": true,
+    "run_number": 3,
+    "seed": 44,
+    "latency_per_decision_ms": 0.10120248794555664,
+    "timestamp": 1766153870.062717
+  },
+  {
+    "strategy": "DPG Only",
+    "otel_enabled": false,
+    "dpg_enabled": true,
+    "run_number": 4,
+    "seed": 45,
+    "latency_per_decision_ms": 0.09172821044921875,
+    "timestamp": 1766153870.1606898
+  },
+  {
+    "strategy": "DPG Only",
+    "otel_enabled": false,
+    "dpg_enabled": true,
+    "run_number": 5,
+    "seed": 46,
+    "latency_per_decision_ms": 0.09220409393310547,
+    "timestamp": 1766153870.259031
+  },
+  {
+    "strategy": "Dual Export (OTel + DPG)",
+    "otel_enabled": true,
+    "dpg_enabled": true,
+    "run_number": 1,
+    "seed": 42,
+    "latency_per_decision_ms": 2.12358021736145,
+    "timestamp": 1766153872.43704
+  },
+  {
+    "strategy": "Dual Export (OTel + DPG)",
+    "otel_enabled": true,
+    "dpg_enabled": true,
+    "run_number": 2,
+    "seed": 43,
+    "latency_per_decision_ms": 2.165550470352173,
+    "timestamp": 1766153874.657343
+  },
+  {
+    "strategy": "Dual Export (OTel + DPG)",
+    "otel_enabled": true,
+    "dpg_enabled": true,
+    "run_number": 3,
+    "seed": 44,
+    "latency_per_decision_ms": 2.087566614151001,
+    "timestamp": 1766153876.797149
+  },
+  {
+    "strategy": "Dual Export (OTel + DPG)",
+    "otel_enabled": true,
+    "dpg_enabled": true,
+    "run_number": 4,
+    "seed": 45,
+    "latency_per_decision_ms": 2.234346389770508,
+    "timestamp": 1766153879.093645
+  },
+  {
+    "strategy": "Dual Export (OTel + DPG)",
+    "otel_enabled": true,
+    "dpg_enabled": true,
+    "run_number": 5,
+    "seed": 46,
+    "latency_per_decision_ms": 2.1147408485412598,
+    "timestamp": 1766153881.258858
+  }
+]

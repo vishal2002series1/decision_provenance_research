@@ -1,0 +1,619 @@
+{
+  "metadata": {
+    "num_runs": 5,
+    "seed": 42,
+    "timestamp": 1765907040.338298
+  },
+  "results": [
+    {
+      "experiment_name": "DPG_Latency_1000_nodes",
+      "run_number": 1,
+      "metric_value": 1.5832462223609258,
+      "timestamp": 1765907040.30455,
+      "metadata": {
+        "duration": 0.0008718967437744141,
+        "chain_length": 1000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_1000_nodes",
+      "run_number": 2,
+      "metric_value": 1.5535292307051887,
+      "timestamp": 1765907040.3046222,
+      "metadata": {
+        "duration": 5.0067901611328125e-06,
+        "chain_length": 1000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_1000_nodes",
+      "run_number": 3,
+      "metric_value": 1.5903118235831124,
+      "timestamp": 1765907040.3046641,
+      "metadata": {
+        "duration": 5.9604644775390625e-06,
+        "chain_length": 1000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_1000_nodes",
+      "run_number": 4,
+      "metric_value": 1.6312777972798957,
+      "timestamp": 1765907040.304682,
+      "metadata": {
+        "duration": 1.0967254638671875e-05,
+        "chain_length": 1000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_1000_nodes",
+      "run_number": 5,
+      "metric_value": 1.549041622062948,
+      "timestamp": 1765907040.3046882,
+      "metadata": {
+        "duration": 1.1920928955078125e-06,
+        "chain_length": 1000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_10000_nodes",
+      "run_number": 1,
+      "metric_value": 15.490423904147784,
+      "timestamp": 1765907040.3144891,
+      "metadata": {
+        "duration": 1.0967254638671875e-05,
+        "chain_length": 10000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_10000_nodes",
+      "run_number": 2,
+      "metric_value": 16.33907159765746,
+      "timestamp": 1765907040.314572,
+      "metadata": {
+        "duration": 8.106231689453125e-06,
+        "chain_length": 10000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_10000_nodes",
+      "run_number": 3,
+      "metric_value": 15.959159453243561,
+      "timestamp": 1765907040.314595,
+      "metadata": {
+        "duration": 8.821487426757812e-06,
+        "chain_length": 10000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_10000_nodes",
+      "run_number": 4,
+      "metric_value": 15.380285987382441,
+      "timestamp": 1765907040.314602,
+      "metadata": {
+        "duration": 9.5367431640625e-07,
+        "chain_length": 10000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_10000_nodes",
+      "run_number": 5,
+      "metric_value": 15.85391810039823,
+      "timestamp": 1765907040.3146062,
+      "metadata": {
+        "duration": 0.0,
+        "chain_length": 10000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_50000_nodes",
+      "run_number": 1,
+      "metric_value": 76.91560259881884,
+      "timestamp": 1765907040.316264,
+      "metadata": {
+        "duration": 6.9141387939453125e-06,
+        "chain_length": 50000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_50000_nodes",
+      "run_number": 2,
+      "metric_value": 76.9101923766456,
+      "timestamp": 1765907040.316272,
+      "metadata": {
+        "duration": 9.5367431640625e-07,
+        "chain_length": 50000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_50000_nodes",
+      "run_number": 3,
+      "metric_value": 78.56619171546453,
+      "timestamp": 1765907040.316275,
+      "metadata": {
+        "duration": 0.0,
+        "chain_length": 50000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_50000_nodes",
+      "run_number": 4,
+      "metric_value": 73.52292422750075,
+      "timestamp": 1765907040.320033,
+      "metadata": {
+        "duration": 6.985664367675781e-05,
+        "chain_length": 50000
+      }
+    },
+    {
+      "experiment_name": "DPG_Latency_50000_nodes",
+      "run_number": 5,
+      "metric_value": 73.9636922719195,
+      "timestamp": 1765907040.32015,
+      "metadata": {
+        "duration": 2.86102294921875e-06,
+        "chain_length": 50000
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_1_agents",
+      "run_number": 1,
+      "metric_value": 242.97140588448784,
+      "timestamp": 1765907040.323869,
+      "metadata": {
+        "duration": 2.7894973754882812e-05,
+        "num_agents": 1
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_1_agents",
+      "run_number": 2,
+      "metric_value": 237.3396109958197,
+      "timestamp": 1765907040.323921,
+      "metadata": {
+        "duration": 1.2874603271484375e-05,
+        "num_agents": 1
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_1_agents",
+      "run_number": 3,
+      "metric_value": 253.92809165744092,
+      "timestamp": 1765907040.323936,
+      "metadata": {
+        "duration": 4.0531158447265625e-06,
+        "num_agents": 1
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_1_agents",
+      "run_number": 4,
+      "metric_value": 238.64969905598485,
+      "timestamp": 1765907040.323949,
+      "metadata": {
+        "duration": 3.0994415283203125e-06,
+        "num_agents": 1
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_1_agents",
+      "run_number": 5,
+      "metric_value": 232.34620373330887,
+      "timestamp": 1765907040.323959,
+      "metadata": {
+        "duration": 3.0994415283203125e-06,
+        "num_agents": 1
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_10_agents",
+      "run_number": 1,
+      "metric_value": 2683.206096115194,
+      "timestamp": 1765907040.326988,
+      "metadata": {
+        "duration": 0.00011801719665527344,
+        "num_agents": 10
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_10_agents",
+      "run_number": 2,
+      "metric_value": 2471.777962439183,
+      "timestamp": 1765907040.32703,
+      "metadata": {
+        "duration": 5.9604644775390625e-06,
+        "num_agents": 10
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_10_agents",
+      "run_number": 3,
+      "metric_value": 2508.4410255859907,
+      "timestamp": 1765907040.327046,
+      "metadata": {
+        "duration": 6.198883056640625e-06,
+        "num_agents": 10
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_10_agents",
+      "run_number": 4,
+      "metric_value": 2321.906476723318,
+      "timestamp": 1765907040.3270578,
+      "metadata": {
+        "duration": 3.814697265625e-06,
+        "num_agents": 10
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_10_agents",
+      "run_number": 5,
+      "metric_value": 2431.9521594343523,
+      "timestamp": 1765907040.32707,
+      "metadata": {
+        "duration": 2.86102294921875e-06,
+        "num_agents": 10
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_50_agents",
+      "run_number": 1,
+      "metric_value": 12569.326618568666,
+      "timestamp": 1765907040.329909,
+      "metadata": {
+        "duration": 7.176399230957031e-05,
+        "num_agents": 50
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_50_agents",
+      "run_number": 2,
+      "metric_value": 11780.62901411106,
+      "timestamp": 1765907040.3299892,
+      "metadata": {
+        "duration": 4.124641418457031e-05,
+        "num_agents": 50
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_50_agents",
+      "run_number": 3,
+      "metric_value": 12734.811261466046,
+      "timestamp": 1765907040.330007,
+      "metadata": {
+        "duration": 5.245208740234375e-06,
+        "num_agents": 50
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_50_agents",
+      "run_number": 4,
+      "metric_value": 12124.600818800747,
+      "timestamp": 1765907040.330053,
+      "metadata": {
+        "duration": 6.198883056640625e-06,
+        "num_agents": 50
+      }
+    },
+    {
+      "experiment_name": "DPG_Throughput_50_agents",
+      "run_number": 5,
+      "metric_value": 12317.691406379203,
+      "timestamp": 1765907040.330107,
+      "metadata": {
+        "duration": 6.9141387939453125e-06,
+        "num_agents": 50
+      }
+    },
+    {
+      "experiment_name": "Memory_No_Checkpoint_10k",
+      "run_number": 1,
+      "metric_value": 0.09699146693885302,
+      "timestamp": 1765907040.331035,
+      "metadata": {
+        "duration": 7.867813110351562e-06,
+        "chain_length": 10000,
+        "use_checkpoint": false
+      }
+    },
+    {
+      "experiment_name": "Memory_No_Checkpoint_10k",
+      "run_number": 2,
+      "metric_value": 0.1092613909225447,
+      "timestamp": 1765907040.33106,
+      "metadata": {
+        "duration": 2.002716064453125e-05,
+        "chain_length": 10000,
+        "use_checkpoint": false
+      }
+    },
+    {
+      "experiment_name": "Memory_No_Checkpoint_10k",
+      "run_number": 3,
+      "metric_value": 0.09993251387631033,
+      "timestamp": 1765907040.331093,
+      "metadata": {
+        "duration": 3.0994415283203125e-06,
+        "chain_length": 10000,
+        "use_checkpoint": false
+      }
+    },
+    {
+      "experiment_name": "Memory_No_Checkpoint_10k",
+      "run_number": 4,
+      "metric_value": 0.09471144535522051,
+      "timestamp": 1765907040.3310988,
+      "metadata": {
+        "duration": 1.6689300537109375e-06,
+        "chain_length": 10000,
+        "use_checkpoint": false
+      }
+    },
+    {
+      "experiment_name": "Memory_No_Checkpoint_10k",
+      "run_number": 5,
+      "metric_value": 0.10411272456051596,
+      "timestamp": 1765907040.331102,
+      "metadata": {
+        "duration": 9.5367431640625e-07,
+        "chain_length": 10000,
+        "use_checkpoint": false
+      }
+    },
+    {
+      "experiment_name": "Memory_With_Checkpoint_10k",
+      "run_number": 1,
+      "metric_value": 0.13779156350028976,
+      "timestamp": 1765907040.332902,
+      "metadata": {
+        "duration": 2.9087066650390625e-05,
+        "chain_length": 10000,
+        "use_checkpoint": true
+      }
+    },
+    {
+      "experiment_name": "Memory_With_Checkpoint_10k",
+      "run_number": 2,
+      "metric_value": 0.15208863595004754,
+      "timestamp": 1765907040.332913,
+      "metadata": {
+        "duration": 2.86102294921875e-06,
+        "chain_length": 10000,
+        "use_checkpoint": true
+      }
+    },
+    {
+      "experiment_name": "Memory_With_Checkpoint_10k",
+      "run_number": 3,
+      "metric_value": 0.13040329876120224,
+      "timestamp": 1765907040.3329191,
+      "metadata": {
+        "duration": 3.0994415283203125e-06,
+        "chain_length": 10000,
+        "use_checkpoint": true
+      }
+    },
+    {
+      "experiment_name": "Memory_With_Checkpoint_10k",
+      "run_number": 4,
+      "metric_value": 0.1367181395110157,
+      "timestamp": 1765907040.332923,
+      "metadata": {
+        "duration": 7.152557373046875e-07,
+        "chain_length": 10000,
+        "use_checkpoint": true
+      }
+    },
+    {
+      "experiment_name": "Memory_With_Checkpoint_10k",
+      "run_number": 5,
+      "metric_value": 0.15196861235869122,
+      "timestamp": 1765907040.332927,
+      "metadata": {
+        "duration": 9.5367431640625e-07,
+        "chain_length": 10000,
+        "use_checkpoint": true
+      }
+    },
+    {
+      "experiment_name": "Detection_Modification",
+      "run_number": 1,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.335121,
+      "metadata": {
+        "duration": 2.7894973754882812e-05,
+        "attack_type": "Modification"
+      }
+    },
+    {
+      "experiment_name": "Detection_Modification",
+      "run_number": 2,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.3351328,
+      "metadata": {
+        "duration": 4.76837158203125e-06,
+        "attack_type": "Modification"
+      }
+    },
+    {
+      "experiment_name": "Detection_Modification",
+      "run_number": 3,
+      "metric_value": 0.9998843517176118,
+      "timestamp": 1765907040.33514,
+      "metadata": {
+        "duration": 4.0531158447265625e-06,
+        "attack_type": "Modification"
+      }
+    },
+    {
+      "experiment_name": "Detection_Modification",
+      "run_number": 4,
+      "metric_value": 0.9996988963044107,
+      "timestamp": 1765907040.335147,
+      "metadata": {
+        "duration": 4.0531158447265625e-06,
+        "attack_type": "Modification"
+      }
+    },
+    {
+      "experiment_name": "Detection_Modification",
+      "run_number": 5,
+      "metric_value": 0.9985214780096325,
+      "timestamp": 1765907040.3351538,
+      "metadata": {
+        "duration": 3.814697265625e-06,
+        "attack_type": "Modification"
+      }
+    },
+    {
+      "experiment_name": "Detection_Deletion",
+      "run_number": 1,
+      "metric_value": 0.9992801557916053,
+      "timestamp": 1765907040.335823,
+      "metadata": {
+        "duration": 8.106231689453125e-06,
+        "attack_type": "Deletion"
+      }
+    },
+    {
+      "experiment_name": "Detection_Deletion",
+      "run_number": 2,
+      "metric_value": 0.9995393612290402,
+      "timestamp": 1765907040.335831,
+      "metadata": {
+        "duration": 4.0531158447265625e-06,
+        "attack_type": "Deletion"
+      }
+    },
+    {
+      "experiment_name": "Detection_Deletion",
+      "run_number": 3,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.33584,
+      "metadata": {
+        "duration": 5.9604644775390625e-06,
+        "attack_type": "Deletion"
+      }
+    },
+    {
+      "experiment_name": "Detection_Deletion",
+      "run_number": 4,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.335847,
+      "metadata": {
+        "duration": 3.814697265625e-06,
+        "attack_type": "Deletion"
+      }
+    },
+    {
+      "experiment_name": "Detection_Deletion",
+      "run_number": 5,
+      "metric_value": 0.9982369598446372,
+      "timestamp": 1765907040.335853,
+      "metadata": {
+        "duration": 4.0531158447265625e-06,
+        "attack_type": "Deletion"
+      }
+    },
+    {
+      "experiment_name": "Detection_Reordering",
+      "run_number": 1,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.3362958,
+      "metadata": {
+        "duration": 2.574920654296875e-05,
+        "attack_type": "Reordering"
+      }
+    },
+    {
+      "experiment_name": "Detection_Reordering",
+      "run_number": 2,
+      "metric_value": 0.9996149177195837,
+      "timestamp": 1765907040.3363242,
+      "metadata": {
+        "duration": 1.3113021850585938e-05,
+        "attack_type": "Reordering"
+      }
+    },
+    {
+      "experiment_name": "Detection_Reordering",
+      "run_number": 3,
+      "metric_value": 0.999323077999694,
+      "timestamp": 1765907040.3363461,
+      "metadata": {
+        "duration": 1.2159347534179688e-05,
+        "attack_type": "Reordering"
+      }
+    },
+    {
+      "experiment_name": "Detection_Reordering",
+      "run_number": 4,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.336378,
+      "metadata": {
+        "duration": 2.3126602172851562e-05,
+        "attack_type": "Reordering"
+      }
+    },
+    {
+      "experiment_name": "Detection_Reordering",
+      "run_number": 5,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.336391,
+      "metadata": {
+        "duration": 5.9604644775390625e-06,
+        "attack_type": "Reordering"
+      }
+    },
+    {
+      "experiment_name": "Detection_Injection",
+      "run_number": 1,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.336688,
+      "metadata": {
+        "duration": 5.0067901611328125e-06,
+        "attack_type": "Injection"
+      }
+    },
+    {
+      "experiment_name": "Detection_Injection",
+      "run_number": 2,
+      "metric_value": 0.9991607824767773,
+      "timestamp": 1765907040.3366961,
+      "metadata": {
+        "duration": 4.291534423828125e-06,
+        "attack_type": "Injection"
+      }
+    },
+    {
+      "experiment_name": "Detection_Injection",
+      "run_number": 3,
+      "metric_value": 0.9996907876241488,
+      "timestamp": 1765907040.3367019,
+      "metadata": {
+        "duration": 3.0994415283203125e-06,
+        "attack_type": "Injection"
+      }
+    },
+    {
+      "experiment_name": "Detection_Injection",
+      "run_number": 4,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.336708,
+      "metadata": {
+        "duration": 4.0531158447265625e-06,
+        "attack_type": "Injection"
+      }
+    },
+    {
+      "experiment_name": "Detection_Injection",
+      "run_number": 5,
+      "metric_value": 1.0,
+      "timestamp": 1765907040.336714,
+      "metadata": {
+        "duration": 3.0994415283203125e-06,
+        "attack_type": "Injection"
+      }
+    }
+  ]
+}

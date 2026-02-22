@@ -1,0 +1,18 @@
+
+\begin{table}[t]
+\centering
+\caption{OpenTelemetry Integration Overhead}
+\label{tab:otel_overhead}
+\begin{tabular}{lcccc}
+\toprule
+Strategy & Latency (ms) & Overhead (ms) & Overhead (\%) & CV (\%) \\
+\midrule
+Baseline & 1.327 $\pm$ 0.008 & --- & --- & 0.6 \\
+OTel Only & 1.467 $\pm$ 0.035 & 0.141 & 10.6\% & 2.4 \\
+DPG Only & 0.108 $\pm$ 0.020 & -1.219 & -91.9\% & 18.5 \\
+\textbf{Dual Export} & \textbf{2.145 $\pm$ 0.057} & \textbf{0.818} & \textbf{61.7\%} & \textbf{2.7} \\
+\midrule
+Export Success (\%) & \multicolumn{4}{c}{100.0 $\pm$ 0.0} \\
+\bottomrule
+\end{tabular}
+\end{table}
